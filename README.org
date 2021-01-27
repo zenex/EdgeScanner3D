@@ -1,0 +1,28 @@
+#+Title: EdgeScanner3D: Scan a real webcam feed for edges, export to .xyz
+#+Author: SENEX @ [[https://xenobyte.xyz][XENOBYTE.XYZ]]
+
+[[http://img.shields.io/:license-mit-blue.svg][http://img.shields.io/:license-mit-blue.svg]]
+
+This software is no longer maintained. Visit [[http://xenobyte.xyz/projects/?nav=edgeScanner3D][XENOBYTE.XYZ]] for more information.
+
+
+* About the EsgeScanner3D
+This is an an old C++, Qt & OpenCV prototype that scans a live webcam feed for vertices and export them to .xyz format (compatible with meshlab). It includes a few filters to better adapt the camera input to the edge detection algorithms like gamma and exposure, it also takes screenshots!
+This program is no longer maintained and mostly used as documentation for both Qt and OpenCV back when they didn't have such outstanding literature. 
+
+  
+* Features
+  - Works with all webcams
+  - Real time execution
+  - Includes various adjustment filters
+  - Exports to .xyz
+  - Takes screenshots!
+
+* Screenshots    
+
+[[http://i.imgur.com/S4NCFRc.png][http://i.imgur.com/S4NCFRc.png]]
+[[http://i.imgur.com/qb82Z5C.png][http://i.imgur.com/qb82Z5C.png]]
+[[http://i.imgur.com/vAexTsW.png][http://i.imgur.com/vAexTsW.png]]
+
+
+ - Installation, configuration and F.A.Q. available at: [[http://xenobyte.xyz/projects/?nav=edgeScanner3D]]
