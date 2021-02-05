@@ -10,6 +10,7 @@ This software is no longer maintained. Visit [[http://xenobyte.xyz/projects/?nav
 This is an an old C++, Qt & OpenCV prototype that scans a live webcam feed for vertices and export them to .xyz format (compatible with meshlab). It includes a few filters to better adapt the camera input to the edge detection algorithms like gamma and exposure, it also takes screenshots!
 This program is no longer maintained and mostly used as documentation for both Qt and OpenCV back when they didn't have such outstanding literature. 
 
+*UPDATED TO WORK WITH QT 5.9 & OPENCV 4+*
   
 * Features
   - Works with all webcams
