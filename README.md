@@ -1,7 +1,7 @@
 # [EdgeScanner3D](https://xenobyte.xyz/projects/?nav=edgeScanner3D)
 
 
-**This software is no longer maintained. Visit [[http://xenobyte.xyz/projects/?nav=edgeScanner3D][XENOBYTE.XYZ]] for more information.**
+**This software is no longer maintained. Visit [XENOBYTE.XYZ](http://xenobyte.xyz/projects/?nav=edgeScanner3D) for more information.**
 
 
 ## About the EsgeScanner3D
