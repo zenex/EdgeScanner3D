@@ -21,8 +21,6 @@ This program is no longer maintained and mostly used as documentation for both Q
 
 ## Screenshots
 
-<img src="http://i.imgur.com/S4NCFRc.png" alt="desktop" border="0" style="width:100%;">
-
 <a href="http://i.imgur.com/S4NCFRc.png"><img src="http://i.imgur.com/S4NCFRc.png" alt="desktop" border="0" style="width:100%;"></a>
 <a href="http://i.imgur.com/qb82Z5C.png"><img src="http://i.imgur.com/qb82Z5C.png" alt="desktop" border="0" style="width:100%;"></a>
 <a href="http://i.imgur.com/vAexTsW.png"><img src="http://i.imgur.com/vAexTsW.png" alt="desktop" border="0" style="width:100%;"></a>
